@@ -14,6 +14,9 @@
 		EBA545A32A4DD9C000D56AC5 /* PokeApiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545A22A4DD9C000D56AC5 /* PokeApiTests.swift */; };
 		EBA545AD2A4DD9C000D56AC5 /* PokeApiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545AC2A4DD9C000D56AC5 /* PokeApiUITests.swift */; };
 		EBA545AF2A4DD9C000D56AC5 /* PokeApiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545AE2A4DD9C000D56AC5 /* PokeApiUITestsLaunchTests.swift */; };
+		EBA545BD2A4DF42700D56AC5 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */; };
+		EBA545C02A4DF44B00D56AC5 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = EBA545BF2A4DF44B00D56AC5 /* Alamofire */; };
+		EBA545C32A4DF45800D56AC5 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = EBA545C22A4DF45800D56AC5 /* AlamofireImage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,7 @@
 		EBA545A82A4DD9C000D56AC5 /* PokeApiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokeApiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBA545AC2A4DD9C000D56AC5 /* PokeApiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeApiUITests.swift; sourceTree = "<group>"; };
 		EBA545AE2A4DD9C000D56AC5 /* PokeApiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeApiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +55,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBA545C02A4DF44B00D56AC5 /* Alamofire in Frameworks */,
+				EBA545C32A4DF45800D56AC5 /* AlamofireImage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +100,7 @@
 		EBA545902A4DD9BC00D56AC5 /* PokeApi */ = {
 			isa = PBXGroup;
 			children = (
+				EBA545BB2A4DF40A00D56AC5 /* Networking */,
 				EBA545912A4DD9BC00D56AC5 /* PokeApiApp.swift */,
 				EBA545932A4DD9BC00D56AC5 /* ContentView.swift */,
 				EBA545952A4DD9C000D56AC5 /* Assets.xcassets */,
@@ -127,6 +134,14 @@
 			path = PokeApiUITests;
 			sourceTree = "<group>";
 		};
+		EBA545BB2A4DF40A00D56AC5 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +158,10 @@
 			dependencies = (
 			);
 			name = PokeApi;
+			packageProductDependencies = (
+				EBA545BF2A4DF44B00D56AC5 /* Alamofire */,
+				EBA545C22A4DF45800D56AC5 /* AlamofireImage */,
+			);
 			productName = PokeApi;
 			productReference = EBA5458E2A4DD9BC00D56AC5 /* PokeApi.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +234,10 @@
 				Base,
 			);
 			mainGroup = EBA545852A4DD9BC00D56AC5;
+			packageReferences = (
+				EBA545BE2A4DF44B00D56AC5 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				EBA545C12A4DF45800D56AC5 /* XCRemoteSwiftPackageReference "AlamofireImage" */,
+			);
 			productRefGroup = EBA5458F2A4DD9BC00D56AC5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -259,6 +282,7 @@
 			files = (
 				EBA545942A4DD9BC00D56AC5 /* ContentView.swift in Sources */,
 				EBA545922A4DD9BC00D56AC5 /* PokeApiApp.swift in Sources */,
+				EBA545BD2A4DF42700D56AC5 /* ServiceManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -588,6 +612,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EBA545BE2A4DF44B00D56AC5 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+		EBA545C12A4DF45800D56AC5 /* XCRemoteSwiftPackageReference "AlamofireImage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/AlamofireImage";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EBA545BF2A4DF44B00D56AC5 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EBA545BE2A4DF44B00D56AC5 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		EBA545C22A4DF45800D56AC5 /* AlamofireImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EBA545C12A4DF45800D56AC5 /* XCRemoteSwiftPackageReference "AlamofireImage" */;
+			productName = AlamofireImage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EBA545862A4DD9BC00D56AC5 /* Project object */;
 }
