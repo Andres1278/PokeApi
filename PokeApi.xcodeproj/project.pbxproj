@@ -17,6 +17,7 @@
 		EBA545BD2A4DF42700D56AC5 /* ServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */; };
 		EBA545C02A4DF44B00D56AC5 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = EBA545BF2A4DF44B00D56AC5 /* Alamofire */; };
 		EBA545C32A4DF45800D56AC5 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = EBA545C22A4DF45800D56AC5 /* AlamofireImage */; };
+		EBA545C62A4DF7A100D56AC5 /* OSLog+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA545C52A4DF7A100D56AC5 /* OSLog+Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		EBA545AC2A4DD9C000D56AC5 /* PokeApiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeApiUITests.swift; sourceTree = "<group>"; };
 		EBA545AE2A4DD9C000D56AC5 /* PokeApiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeApiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceManager.swift; sourceTree = "<group>"; };
+		EBA545C52A4DF7A100D56AC5 /* OSLog+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OSLog+Utils.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 		EBA545902A4DD9BC00D56AC5 /* PokeApi */ = {
 			isa = PBXGroup;
 			children = (
+				EBA545C42A4DF77500D56AC5 /* Utils */,
 				EBA545BB2A4DF40A00D56AC5 /* Networking */,
 				EBA545912A4DD9BC00D56AC5 /* PokeApiApp.swift */,
 				EBA545932A4DD9BC00D56AC5 /* ContentView.swift */,
@@ -140,6 +143,14 @@
 				EBA545BC2A4DF42700D56AC5 /* ServiceManager.swift */,
 			);
 			path = Networking;
+			sourceTree = "<group>";
+		};
+		EBA545C42A4DF77500D56AC5 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				EBA545C52A4DF7A100D56AC5 /* OSLog+Utils.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -280,6 +291,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBA545C62A4DF7A100D56AC5 /* OSLog+Utils.swift in Sources */,
 				EBA545942A4DD9BC00D56AC5 /* ContentView.swift in Sources */,
 				EBA545922A4DD9BC00D56AC5 /* PokeApiApp.swift in Sources */,
 				EBA545BD2A4DF42700D56AC5 /* ServiceManager.swift in Sources */,
