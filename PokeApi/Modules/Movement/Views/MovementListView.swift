@@ -16,6 +16,7 @@ struct MovementListView: View {
         List(viewModel.filteredMovement, id: \.id) { movement in
             NavigationLink(destination:
                 Text(movement.name.capitalized)
+                    .font(.system(size: 26, weight: .regular, design: .monospaced))
             ) {
                 MovementSingleListView(movement: movement)
             }

@@ -32,12 +32,13 @@ struct ContentView: View {
                         AbilitiesListView()
                             .environmentObject(AbilitiesViewModel())
                     default:
-                        Text("We are working in this feature")
+                        Text("We are working in this feature 😅")
                     }
                 }
                 .environmentObject(router)
             } else {
                 Text("Please! Choose an option 😀")
+                    .font(.system(size: 26, weight: .regular, design: .monospaced))
             }
         }
         .tint(.black)

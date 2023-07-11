@@ -93,6 +93,7 @@
 		EB87ACF42A5BB6DE00C02308 /* PokemonDetailMock.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PokemonDetailMock.json; sourceTree = "<group>"; };
 		EB87ACFA2A5BBA0A00C02308 /* AbilitiesMockList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = AbilitiesMockList.json; sourceTree = "<group>"; };
 		EB87ACFE2A5BBB1200C02308 /* MovementsMockList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = MovementsMockList.json; sourceTree = "<group>"; };
+		EB87AD062A5CEEDC00C02308 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		EB972B972A5AF5BC002985A7 /* MovesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovesView.swift; sourceTree = "<group>"; };
 		EB972B992A5B2F96002985A7 /* MovementListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovementListView.swift; sourceTree = "<group>"; };
 		EB972BA02A5B3160002985A7 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
@@ -173,7 +174,7 @@
 		EB4BBC732A559CD400D75636 /* Modules */ = {
 			isa = PBXGroup;
 			children = (
-				EBA545932A4DD9BC00D56AC5 /* ContentView.swift */,
+				EB87AD032A5CEC1900C02308 /* Content */,
 				EB7701C72A546B7700D7DCDA /* SideBar */,
 				EB972B9C2A5B309A002985A7 /* Pokemon */,
 				EB972B9D2A5B30A7002985A7 /* Movement */,
@@ -227,6 +228,14 @@
 				EB87ACFE2A5BBB1200C02308 /* MovementsMockList.json */,
 			);
 			path = JsonMocks;
+			sourceTree = "<group>";
+		};
+		EB87AD032A5CEC1900C02308 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				EBA545932A4DD9BC00D56AC5 /* ContentView.swift */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 		EB972B9C2A5B309A002985A7 /* Pokemon */ = {
@@ -318,6 +327,7 @@
 		EBA545902A4DD9BC00D56AC5 /* PokeApi */ = {
 			isa = PBXGroup;
 			children = (
+				EB87AD062A5CEEDC00C02308 /* Info.plist */,
 				EB4BBC732A559CD400D75636 /* Modules */,
 				EBA545C42A4DF77500D56AC5 /* Utils */,
 				EBA545BB2A4DF40A00D56AC5 /* Networking */,
@@ -733,9 +743,9 @@
 				DEVELOPMENT_TEAM = 7577XXK6FR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PokeApi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -766,9 +776,9 @@
 				DEVELOPMENT_TEAM = 7577XXK6FR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = PokeApi/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

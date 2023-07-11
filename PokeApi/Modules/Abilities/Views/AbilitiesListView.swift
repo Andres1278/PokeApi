@@ -15,6 +15,7 @@ struct AbilitiesListView: View {
         List(viewModel.filteredAbilities, id: \.id) { ability in
             NavigationLink(destination:
                 Text(ability.name.capitalized)
+                    .font(.system(size: 26, weight: .regular, design: .monospaced))
             ) {
                 AbilitySingleListView(ability: ability)
             }
