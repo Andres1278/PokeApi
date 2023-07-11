@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B9B5805C-2AB7-41B5-B008-9DBFF9D85157"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "470">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7acf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7acf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7acf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "483">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7d2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7d2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "E6F162FE-D7D4-470C-AC0E-91C59BBDBC87 - 5b9850bb567b7d2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonListResponse) -&gt; () in PokeApi.ViewModel.init() -&gt; PokeApi.ViewModel"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "483">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getDetails(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "331">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b239b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b23d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b2336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 5f3a624e949b2336"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(pokemon: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "434">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 3650bca540395653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(with: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "DD398F82-E41E-44F9-BF39-0A95CADBB3AD - 3650bca540395653"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.ViewModel.getDetails(with: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00AB4068-9432-4C1E-A18F-8B039CC36EBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/PokemonListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "00AB4068-9432-4C1E-A18F-8B039CC36EBF - e563e27eecb691"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;PokeApi.PokemonListView&gt; in closure #2 () -&gt; SwiftUI.NavigationStack&lt;Swift.Array&lt;PokeApi.Route&gt;, Swift.Optional&lt;PokeApi.PokemonListView&gt;&gt; in PokeApi.PokemonListViewContainer.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/PokemonListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "615">
+               </Location>
+               <Location
+                  uuid = "00AB4068-9432-4C1E-A18F-8B039CC36EBF - e563e27eecb6d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;PokeApi.PokemonListView&gt; in closure #2 () -&gt; SwiftUI.NavigationStack&lt;Swift.Array&lt;PokeApi.Route&gt;, Swift.Optional&lt;PokeApi.PokemonListView&gt;&gt; in PokeApi.PokemonListViewContainer.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/PokemonListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "671">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23BAE42C-0D58-4A66-80C2-502FC8848CFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/PokemonListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "23BAE42C-0D58-4A66-80C2-502FC8848CFD - ba4c90992152168"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.Option) -&gt; SwiftUI.NavigationLink&lt;PokeApi.PokemonSingleItemList, Swift.Never&gt; in PokeApi.PokemonListView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/PokemonListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "310">
+               </Location>
+               <Location
+                  uuid = "23BAE42C-0D58-4A66-80C2-502FC8848CFD - f35143a9678c74ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; PokeApi.PokemonSingleItemList in closure #1 (PokeApi.Option) -&gt; SwiftUI.NavigationLink&lt;PokeApi.PokemonSingleItemList, Swift.Never&gt; in PokeApi.PokemonListView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/PokemonListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5EC25F4-C9F2-49E5-B201-3C4C0BD2A2FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getPokemonIndex(pokemon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "783CFE7F-DE62-413D-8D03-DC9B78E0D4F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Views/GridViews/PokemonSingleGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "783CFE7F-DE62-413D-8D03-DC9B78E0D4F6 - fbacb2a0ba8543ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.Image) -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PokeApi.PokemonSingleGridView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/GridViews/PokemonSingleGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  uuid = "783CFE7F-DE62-413D-8D03-DC9B78E0D4F6 - d0a4b09d2ee3ace0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PokeApi.PokemonSingleGridView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/GridViews/PokemonSingleGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "547">
+               </Location>
+               <Location
+                  uuid = "783CFE7F-DE62-413D-8D03-DC9B78E0D4F6 - fbacb2a0ba854394"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.Image) -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PokeApi.PokemonSingleGridView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/GridViews/PokemonSingleGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  uuid = "783CFE7F-DE62-413D-8D03-DC9B78E0D4F6 - d0a4b09d2ee3ace0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.AsyncImage&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PokeApi.PokemonSingleGridView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/GridViews/PokemonSingleGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "567">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getMovements(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 3d49440400957787"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getItems(in: Swift.Optional&lt;PokeApi.MenuOptions&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;PokeApi.Option&gt;&gt;"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 40ca524cf1a12b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 40ca524cf1a12b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 40ca524cf1a12b0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 40ca524cf1a12b0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 9f89474205abd950"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "214">
+               </Location>
+               <Location
+                  uuid = "0C4E2272-3DC5-4ADB-8D4D-73457179302F - 9f89474205abd950"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getMovements(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - d22590aba4ace866"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - 40ca524cf1a12ae8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - d22590aba4ace805"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - 40ca524cf1a12ac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: PokeApi.Pokemon) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - d13d3392791d6a04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getMovements(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "FC1CF215-58E3-4673-8A02-F5E049C4A0AC - 9f89474205abd896"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonMovementsResponse) -&gt; () in PokeApi.ViewModel.getMovements(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "183">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D358E336-398F-4BD3-AB54-9C6FA7C3CA98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "getMovements(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "getAbilities(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 579edc8081403faa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 9c6b82c50f363b68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 579edc8081403f8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 9c6b82c50f363b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 579edc8081403eb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "578">
+               </Location>
+               <Location
+                  uuid = "ADCAE35A-CE21-48A0-9921-EE86B62E7C63 - 9c6b82c50f363a73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "307">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Models/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getAbilities(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363baa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "613BFECD-088C-4999-8FFB-6862E8A0799F - 9c6b82c50f363a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonAbilityResponse) -&gt; () in PokeApi.ViewModel.getAbilities(for: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Models/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "345">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23482611-6FB8-4F72-9417-E6D5C3BE5C8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Views/ListViews/PokemonSingleListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getDetails(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23482611-6FB8-4F72-9417-E6D5C3BE5C8D - c045f9c404bfc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.PokemonSingleListViewModel.getDetails(with: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/ListViews/PokemonSingleListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "23482611-6FB8-4F72-9417-E6D5C3BE5C8D - c045f9c404bfc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PokeApi.PokemonDetailResponse) -&gt; () in PokeApi.PokemonSingleListViewModel.getDetails(with: Swift.String) -&gt; ()"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/ListViews/PokemonSingleListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57143DDE-FDAF-4C9D-B0A0-7194D6583753"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Views/DetailView/PokemonDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "57143DDE-FDAF-4C9D-B0A0-7194D6583753 - f986b86ea5b5638f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2122">
+               </Location>
+               <Location
+                  uuid = "57143DDE-FDAF-4C9D-B0A0-7194D6583753 - 3631bc2bb8d8b3bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C9307AC-4279-4F1D-BEB8-0B231E94DA48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Views/DetailView/PokemonDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4C9307AC-4279-4F1D-BEB8-0B231E94DA48 - 9f0e35a181e8b32f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (PokeApi.PokemonDetail.PokemonStat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "4C9307AC-4279-4F1D-BEB8-0B231E94DA48 - 9f0e35a181e8b32f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (PokeApi.PokemonDetail.PokemonStat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.progressViewStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ProgressViewStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "327">
+               </Location>
+               <Location
+                  uuid = "4C9307AC-4279-4F1D-BEB8-0B231E94DA48 - 9b564acba1a14efb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Text in closure #4 (PokeApi.PokemonDetail.PokemonStat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "4C9307AC-4279-4F1D-BEB8-0B231E94DA48 - cf0dfbd92e7be55b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (PokeApi.PokemonDetail.PokemonStat) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt;, SwiftUI.Text, PokeApi.ItemView, SwiftUI.ForEach&lt;Swift.Array&lt;PokeApi.PokemonDetail.PokemonStat&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in PokeApi.PokemonDetailView.body.getter : some"
+                  moduleName = "PokeApi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedroa/dev/PokeApi/PokeApi/Views/DetailView/PokemonDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "390">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4D121DA-37BA-43E1-8C0D-0C9C309FA4DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApi/Networking/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "request(to:method:parameters:headers:encoding:keypath:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E511090-9A17-422C-B467-A406BA70AE4B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApiTests/PokeApiTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "testGetPokemonList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D95D351-F229-4C3A-A785-27E2E18F23E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApiTests/PokeApiTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "testGetPokemonList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F78B03-A1A8-4948-938B-AC054BB338A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokeApiTests/PokeApiTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "PokeApiTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

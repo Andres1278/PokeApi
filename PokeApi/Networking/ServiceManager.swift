@@ -35,7 +35,7 @@ struct ServiceManger {
         
         guard let url = URL(string: endpoint) else {
             completionHandler?(.failure(NetworkError.badURL))
-            //         TODO:    url invalida
+            // TODO:    url invalida
             return
         }
         AF.request(url, method: method, parameters: parameters, encoding: encoding).responseJSON { (response) in
