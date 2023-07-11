@@ -1,16 +1,18 @@
 # PokeApi
 
-##PokeApi Project!!!
+## PokeApi Project!!!
 SwiftUI, MVVM, SplitView
 
-##iPhone
+## iPhone
+
 <img width="398" alt="Screenshot 2023-07-10 at 8 43 09 PM" src="https://github.com/Andres1278/PokeApi/assets/53240772/0fac3ed6-a349-4a31-84a5-a216f468c830">
 
 <img width="404" alt="Screenshot 2023-07-10 at 8 43 22 PM" src="https://github.com/Andres1278/PokeApi/assets/53240772/2d97950e-eea3-48dd-8fb3-6ed78a7b1658">
 
 <img width="400" alt="Screenshot 2023-07-10 at 8 43 34 PM" src="https://github.com/Andres1278/PokeApi/assets/53240772/223db3e2-125e-4f78-bba7-e5e83086fa71">
 
-##iPad
+## iPad
+
 <img width="617" alt="Screenshot 2023-07-10 at 8 38 59 PM" src="https://github.com/Andres1278/PokeApi/assets/53240772/ed6eb5b5-9bb3-41d9-9699-ec5b54b8d725">
 
 
